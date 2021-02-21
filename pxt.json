@@ -1,0 +1,23 @@
+{
+    "name": "sound",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "gatorMicrophone": "github:sparkfun/pxt-gator-microphone#v1.0.20",
+        "gatorSoil": "github:sparkfun/pxt-gator-soil#v1.0.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
